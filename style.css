@@ -1,0 +1,68 @@
+<style type="text/css">
+			* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;}
+			body {background-color: DeepSkyBlue ;
+
+background-image:url(https://wallpapercave.com/wp/8qnLWpb.jpg);
+background-size:contain;
+background-position:center;
+
+}
+
+           
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #00FFFF;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #6495ED;}
+
+#nav { background-color: #00008B; }
+
+
+#content { background-color: #00FA9A; }
+
+#footer { background-color: #B0E0E6; }
+
+.column1 {
+  background-color: #663399
+}
+
+.column2 {
+  background-color: #87CEEB
+}
+
+.column3 {
+  background-color: #4682B4
+}
+
+#feature {
+ background-color: #1E90FF;
+ background-image: url("https://images-na.ssl-images-amazon.com/images/I/91YWN2-mI6L._SL1500_.jpg");
+ background-size:cover;
+ background-position: center;
+ background-repeat:no-repeat;}
+
+h1 {
+  color:yellow;
+  font-family: serif;
+} 
+
+
+		</style>
